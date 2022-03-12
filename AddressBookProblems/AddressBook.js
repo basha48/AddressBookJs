@@ -147,7 +147,7 @@ function findContact(fname, lname){
         }
     }
 }
-// let param1 = prompt("Enter the First Name:  ");
-// let param2 = prompt("Enter the Last Name:  ");
-// findContact(param1, param2);
- printContacts();
+let param1 = prompt("Enter the First Name:  ");
+let param2 = prompt("Enter the Last Name:  ");
+findContact(param1, param2);
+printContacts();
